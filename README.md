@@ -1,4 +1,4 @@
-<h1 align="center" style="color:red;">Hi 👋, I'm Deepak Gupta</h1>
+<h1 align="center">Hi 👋, I'm Deepak Gupta</h1>
 <br />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=deepakgupta191199" alt="deepakgupta191199" /> </p>
 <br />
@@ -20,14 +20,14 @@
 </p>
 <br />
 
-<!-- Looks Good in small or large screens -->
+<!-- Looks Bad in small screens -->
 <div>
-  <img src="https://i.giphy.com/media/l4hLVfpZQf1Ca0bhm/giphy-downsized.gif" align="right" width="425" height="365"/>
+  <img src="https://i.giphy.com/media/l4hLVfpZQf1Ca0bhm/giphy-downsized.gif" align="right" width="48%" height="385"/>
 </div>
 <div>
-  <img align="center" src=https://github-readme-stats.vercel.app/api?username=deepakgupta191199&theme=dracula&show_icons=true" />
-  <br />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakgupta191199&layout=compact&theme=dracula" alt="deepakgupta191199" />  
+  <img align="center" width="48%" height="200" src=https://github-readme-stats.vercel.app/api?username=deepakgupta191199&theme=dracula&show_icons=true" />
+
+  <img align="center" height="180" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakgupta191199&layout=compact&theme=dracula" alt="deepakgupta191199" />  
 </div>
 
 
