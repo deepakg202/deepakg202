@@ -40,5 +40,5 @@
 <p align="center">
 <a href="https://linkedin.com/in/deepakgupta191199" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="deepakgupta191199" height="30" width="30" /></a>&nbsp&nbsp
 <a href="https://www.hackerrank.com/deepakg202" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="deepakg202" height="30" width="30" /></a>&nbsp&nbsp
-<a href="https://stackoverflow.com/users/deepakgupta191199" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="deepakgupta191199" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/12200445/deepakgupta191199" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="deepakgupta191199" height="30" width="30" /></a>
 </p>
