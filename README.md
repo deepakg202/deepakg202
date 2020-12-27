@@ -4,6 +4,7 @@
 <br />
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>&nbsp;&nbsp;
@@ -13,6 +14,7 @@
   <img src="https://devicon.dev/devicon.git/icons/jquery/jquery-original-wordmark.svg" alt="javascript" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>&nbsp;&nbsp;  
   <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>&nbsp;&nbsp;
@@ -37,6 +39,7 @@
 <br />
 &nbsp;
 <br />
+<p align="center"><strong> ⬇ ⬇ ⬇ Find Me ⬇ ⬇ ⬇ </strong></p>
 <p align="center">
 <a href="https://linkedin.com/in/deepakgupta191199" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="deepakgupta191199" height="30" width="30" /></a>&nbsp&nbsp
 <a href="https://www.hackerrank.com/deepakg202" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="deepakg202" height="30" width="30" /></a>&nbsp&nbsp
