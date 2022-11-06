@@ -29,9 +29,9 @@
   <img src="https://i.giphy.com/media/l4hLVfpZQf1Ca0bhm/giphy-downsized.gif" align="right" width="48%" height="385"/>
 </div>
 <div>
-  <img align="center" width="48%" height="200" src=https://github-readme-stats.vercel.app/api?username=deepakgupta191199&theme=dracula&show_icons=true" />
+  <img align="center" width="48%" height="200" src=https://github-readme-stats.vercel.app/api?username=deepakg202&theme=dracula&show_icons=true" />
 
-  <img align="center" height="180" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakgupta191199&layout=compact&theme=dracula" alt="deepakgupta191199" />  
+  <img align="center" height="180" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakg202&layout=compact&theme=dracula" alt="deepakg202" />  
 </div>
 
 
@@ -41,9 +41,9 @@
 <br />
 <p align="center"><strong> ⬇ ⬇ ⬇ Find Me ⬇ ⬇ ⬇ </strong></p>
 <p align="center">
-<a href="https://linkedin.com/in/deepakgupta191199" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="deepakgupta191199" height="30" width="30" /></a>&nbsp&nbsp
+<a href="https://linkedin.com/in/deepakg202" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="deepakg202" height="30" width="30" /></a>&nbsp&nbsp
 <a href="https://www.hackerrank.com/deepakg202" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="deepakg202" height="30" width="30" /></a>&nbsp&nbsp
-<a href="https://stackoverflow.com/users/12200445/deepakgupta191199" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="deepakgupta191199" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/12200445" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="deepakg202" height="30" width="30" /></a>
 </p>
 
 ---
